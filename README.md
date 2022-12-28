@@ -2,7 +2,9 @@
 experimental result
 ### 文件说明
 * .png文件为论文中实验结果表格
-* baidunet.txt为具体的数据的百度网盘地址，由于数据量过大，没法上传GitHub，转储至百度网盘。数据包含了融合特征在数据集大小为2的10次方、2的14次方、2的18次方的情况下，对SIFT_BOF SIFT_HASH PIXEL CIHDN DCT_LDA FAST_RCNN六种隐写方案的检测结果。包含所有实验中使用的消息，消息对应的图片，分类器特征及测试用例。
+* 由于数据量过大，没法上传GitHub，转储至百度网盘。数据包含了融合特征在数据集大小为2的10次方、2的14次方、2的18次方的情况下，对SIFT_BOF SIFT_HASH PIXEL CIHDN DCT_LDA FAST_RCNN六种隐写方案的检测结果。包含所有实验中使用的消息，消息对应的图片，分类器特征及测试用例。
+> 地址：https://pan.baidu.com/s/1K0zmOQV6pdG4WiYugh6zRg?pwd=09y6     
+> 提取码：09y6
 ### 百度网盘中实验数据文件名命名规则
 * 正常用户文件命名规则："nor_users_pics_path" + "数据集大小" + ".txt"
 * 隐写者文件命名规则："f_coverless_pics" + "检测图片数量" + "test" + "隐写方案" + "数据集大小" + ".txt"
